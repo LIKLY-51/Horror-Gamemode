@@ -3,8 +3,6 @@
 Its just a gamemode for garry's mod that changes some things so its more suited for horror maps that trys to have as little
 extra requirements as possble.
 
-I'm also somewhat new to making mods so don't expect it to a 10/10.
-
 ## Features
 * Toggle Flashlight use for players
 * Set who can use noclip(eg admin only)
