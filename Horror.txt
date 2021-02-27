@@ -1,0 +1,6 @@
+"Horror"
+{
+	"base"		"base"
+	"title"		"Horror"
+	"menusystem"	"1"
+}
