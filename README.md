@@ -12,6 +12,7 @@ Its just a gamemode for garry's mod that changes some things so its more suited 
 - [x] restict noclip
 - [x] restict crosshair
 - [x] random playermodels(for now)
+- [x] random player color
 - [ ] playermodel persistance after death
 - [ ] playermodel menu
 - [ ] thirdperson view?
